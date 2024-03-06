@@ -1,8 +1,8 @@
 def count_substring(string, sub_string):
-    startIndex = 0
+    startIndex = 0 #burası kelime eşleşirse başlangıç noktasıdır 
     count = 0
-    while string.find(sub_string, startIndex) != -1:
-        startIndex = string.find(sub_string, startIndex) + 1
+    while string.find(sub_string, startIndex) != -1:#daha fazla istenilen kelimeyi bulamayana kadar aramaya devam et
+        startIndex = string.find(sub_string, startIndex) + 1#bulursa kelimenin başlangıcından bir sonrakine gider ki bulduğu kısım içersinden sonra var mı kontrol edebilsin
         count += 1
 
     return count
