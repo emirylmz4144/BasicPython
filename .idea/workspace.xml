@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b1d088e-6ce5-4b91-a037-e67edfa383a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FlattenAlgorithm/.idea/FlattenAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiReverse/.idea/MultiReverse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BasicPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BasicPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +77,7 @@
       <workItem from="1709234521842" duration="114000" />
       <workItem from="1709462948776" duration="1097000" />
       <workItem from="1709716801069" duration="101000" />
-      <workItem from="1709727068331" duration="1603000" />
+      <workItem from="1709727068331" duration="2206000" />
     </task>
     <servers />
   </component>
